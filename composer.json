@@ -1,6 +1,7 @@
 {
     "name": "galaxycube/tuffnells-ezeelink",
     "type": "library",
+    "version": "1.0.1",
     "description": "Tuffnells Ezeelink Wrapper",
     "keywords": ["tuffnells","ezeelink"],
     "homepage": "https://robertmccombe.com/",
