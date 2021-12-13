@@ -19,8 +19,8 @@
         }
     },
     "require": {
-        "php": ">=7.4",
-        "guzzlehttp/guzzle": "7.0",
+        "php": "^7.3|^8.0",
+        "guzzlehttp/guzzle": "^7.0",
         "bdk/css-xpath": "^1.0",
         "psr/log": "^1.1",
         "psr/simple-cache": "^1.0",
